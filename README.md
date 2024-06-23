@@ -54,4 +54,4 @@ Be careful when using direct memory access. Incorrect usage can potentially dama
 
 ## Acknowledgements
 
-This code was developed as part of the 2nd year (2023-2024) Hardware Software Interface course in the BSc Computer Science program at Heriot-Watt University. It was completed as a pair coursework assignment. 
+This code was developed as part of the Year 2 (2023-2024) Hardware Software Interface Course. It was completed as a pair coursework assignment. 
